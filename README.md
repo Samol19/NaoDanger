@@ -31,14 +31,14 @@ joschua
 
 ```bash
 pip2 install opencv-python pillow numpy requests
-
+```
 3. **Configurar el entorno de Python 3:**
    - Configurar el path de Python3 en las variables de entorno
    - Las siguientes dependencias deben instalarse para este entorno
 
 ```bash
 pip install opencv-python numpy torch ultralytics requests flask
-
+```
 ### Configuración del Robot Nao
 
 1. **Conexión a la Red:**
