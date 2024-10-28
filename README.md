@@ -51,6 +51,8 @@ pip install opencv-python numpy torch ultralytics requests flask
 2. **Ejecutar el archivo app.py o en caso contrario el ejecutable NeoDanger.exe**
 Dicho programa ejecutara los 3 scripts principales (Pose_detection.py, NaoDanger_detection.py y Response_detection.py)
 
+![Captura de pantalla de NaoDanger.exe](images/ss.jpg)
+
 ---
 
 ### Recursos Adicionales
