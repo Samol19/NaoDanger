@@ -11,7 +11,11 @@
 joschua
 
 ---
+**Diagrama de arquitectura de componentes:**  
 
+
+
+---
 ## Instrucciones de Instalación
 
 ### Requerimientos
